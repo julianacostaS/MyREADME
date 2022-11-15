@@ -25,54 +25,16 @@ Hi, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 
 | Courses | Tech | Link   |
 | :-------- |:------- | :------------------------- |
-| `Uni - Computer Science`| IT| Bacharel - Degree|
-| `FreeCodeCamp - JavaScript Algorithms & Data Structures` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
-| `FreeCodeCamp - Responsive Web Design` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) |
-| `Web Development Bootcamp 2021` | Development| **GitHub**. [link](https://github.com/pittyh6/Web_Development_Bootcamp_2021) |
-| `Johns Hopkins Uni - Web Development` | Development| **GitHub**. [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023) |
-| `CypressIO` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
-| `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
+| `Uni - Information Technology`| IT| Bacharel - Degree|
+| `FreeCodeCamp - Responsive Web Design` | Development| **GitHub**. |
+| `Web Development Bootcamp 2022` | Development| **GitHub**. [link] |
 |⎯⎯|⎯|⎯|
-|  Challenge - FrontEnd Mentor  | Tech  | Link  |
-| `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
-| `EasyBank` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) |
-| `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
-| `Tracking intro components` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/project_tracking_intro_component) |
-| `bookmark landing page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
-|⎯⎯|⎯|⎯|
-| Challenges - CodeWars | Tech     | Link  |
-| `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
-| `ArrayDiff` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/arrayDiff) |
-| `Complementary DNA` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/complementary_dna) |
-| `Reverse Words` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/reverseWords) |
-| `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023) |
-|⎯⎯|⎯|⎯|
-| Challenges - CSS Battle | Tech     | Link |
-| `Leafy Trail` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/7_leafy_trail) |
-| `Missing Slice` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/6_missing_slice) |
-| `Acid Rain` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/5_acid_rain) |
-| `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
-| `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
-|⎯⎯|⎯|⎯|
-| Own Projects | Type     | Link  |
-| `Memory Game (In Progress...)`| Game | **GitHub**. [link](https://github.com/pittyh6/memory_game-5-12mths-web_devlopment_2022-2023)|
-| `Pitty Web Page` | Web Site Page | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
-|⎯⎯|⎯|⎯|
-
-
+|  Challenges - FrontEnd   | Tech  | Link  |
+| `Soccer World Cup 2022 Calendar` | HTML, CSS, JS | **GitHub**. [link] (https://github.com/julianacostaS/NLW-WorldCup2022Calendar-) |
 
 
 <!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pittyh6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pittyh6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pittyh6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pittyh6&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
--->
 ---
-[![](https://visitcount.itsvg.in/api?id=pittyh6&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=julianaCosta&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
