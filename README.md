@@ -8,7 +8,7 @@ Hi, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 
 
 # 💻 Tech Stack:
-🖥️ Programming Languages <br>
+🖥️ Programming Languages <br> <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 📚 Frameworks, Platforms and Libraries <br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) <br>
@@ -30,11 +30,6 @@ Hi, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 | `Web Development Bootcamp 2022` | Development| **GitHub**. [link] |
 |⎯⎯|⎯|⎯|
 |  Challenges - FrontEnd   | Tech  | Link  |
-| `Soccer World Cup 2022 Calendar` | HTML, CSS, JS | **GitHub**. [link] (https://github.com/julianacostaS/NLW-WorldCup2022Calendar-) |
+| `Soccer World Cup 2022 Calendar` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/NLW-WorldCup2022Calendar-) |
 
-
-<!--
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 [![](https://visitcount.itsvg.in/api?id=julianaCosta&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
