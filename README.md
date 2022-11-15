@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi there, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 
 ## 🌐 Socials:
