@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 Hi there, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 
 ## 🌐 Socials:
@@ -7,7 +7,7 @@ Hi there, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianacosta405@gmail.com?subject=[GitHub])
 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br><br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) <br><br>
@@ -16,7 +16,7 @@ Hi there, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br><br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br><br>
 
-## 🛠 Projects
+# 🛠 Projects
 
 | Courses | Tech | Link   |
 | :-------- |:------- | :------------------------- |
