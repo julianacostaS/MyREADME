@@ -1,5 +1,4 @@
 # 💫 About Me:
-[<img src="https://raw.githubusercontent.com/Juliana/Juliana/master/intro.gif" alt="👋 Hi there! I'm (Juliana(111|nd Li)" title="👋 Hi there! I'm (Juliana(111|nd Li)"/>]
 Hi there, I'm Juliana.<br>I am a Junior Front End Web Developer.<br>
 
 ## 🌐 Socials:
