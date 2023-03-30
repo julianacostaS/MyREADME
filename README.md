@@ -29,12 +29,12 @@ Hi there, I'm Juliana.<br>I am a Junior Front-end Developer.<br>
 | `Drum Kit` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/Drum-Kit) |
 | `Dice Game` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/DiceGame) |
 | `EColeta` | HTML, CSS, JS, API Call, SQLite, NodeJS, NPM, Express, Nunjucks| **GitHub**. [link](https://github.com/julianacostaS/EColeta) |
-| `Contact List` | HTML, CSS, JS, React.js, Vite, Netlify | **GitHub**. [link](https://contact-list-challenge.netlify.app/) |
-| `Carnival Blocks` | HTML, CSS, JS | **GitHub**. [link](https://julianacostas.github.io/CarnivalBlocks/) |
-| `Chat` | HTML, CSS, JS | **GitHub**. [link](https://julianacostas.github.io/Chat/) |
-| `DevLinks` | HTML, CSS, JS | **GitHub**. [link](https://julianacostas.github.io/DevLinks/) |
-| `Habits` | HTML, CSS, JS | **GitHub**. [link](https://julianacostas.github.io/Habits/) |
-| `LawConnect` | HTML, CSS, JS | **GitHub**. [link](https://julianacostas.github.io/LawConnect/) |
+| `Contact List` | HTML, CSS, JS, React.js, Vite, Netlify | **GitHub**. [link](https://github.com/julianacostaS/contact-list) |
+| `Carnival Blocks` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/CarnivalBlocks) |
+| `Chat` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/Chat) |
+| `DevLinks` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/DevLinks/) |
+| `Habits` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/Habits) |
+| `LawConnect` | HTML, CSS, JS | **GitHub**. [link](https://github.com/julianacostaS/LawConnect) |
 
 
 
